@@ -1,4 +1,4 @@
-# 1 Objetivo
+# 1 Objetivos
 
 Estudo relacionado a disciplina de Introdução a Problemas Inversos em
 Python:  
